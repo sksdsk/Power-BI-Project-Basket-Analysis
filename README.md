@@ -4,7 +4,7 @@
 This is a personal project focused on market analysis using Power BI. The project is inspired by a tutorial from [BI With Gurpreet](https://www.youtube.com/@biwithgurpreet). You can find the source video [here](https://www.youtube.com/watch?v=vK_njDjjP6I).
 
 ## About Dataset
-The dataset, grocery.csv, was obtained from BI With Gurpreet and is originally sourced from Kaggle. It contains 7,835 rows of purchase orders from grocery stores. Each row represents a transaction/order and each column contains a grocery item. These orders are analyzed, and association rules are generated using Market Basket Analysis.
+The dataset, [Groceries.csv](https://tinyurl.com/sscw2z9t), was obtained from BI With Gurpreet and is originally sourced from Kaggle. It contains 7,835 rows of purchase orders from grocery stores. Each row represents a transaction/order and each column contains a grocery item. These orders are analyzed, and association rules are generated using Market Basket Analysis.
 
 ![image](https://github.com/user-attachments/assets/c4536a9a-adc3-4b57-a864-b3f1070a67ee)
 
